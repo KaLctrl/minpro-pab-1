@@ -1,17 +1,32 @@
-# minpro1
+# minpro-pab-1
+# Aplikasi Log Aktivitas Olahraga
 
-A new Flutter project.
+## Deskripsi Aplikasi
+Aplikasi Log Aktivitas Olahraga adalah aplikasi mobile berbasis Flutter yang digunakan untuk mencatat dan mengelola aktivitas olahraga harian pengguna. Aplikasi ini membantu pengguna mencatat jenis olahraga, durasi, dan catatan tambahan secara sederhana dan terstruktur.
 
-## Getting Started
+Aplikasi ini menerapkan konsep CRUD (Create, Read, Update, Delete) dan menggunakan navigasi antar halaman untuk meningkatkan pengalaman pengguna.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Fitur Aplikasi
+- Menambahkan data aktivitas olahraga
+- Menampilkan daftar aktivitas olahraga
+- Mengedit data aktivitas olahraga
+- Menghapus data aktivitas olahraga
+- Navigasi antar halaman (halaman daftar dan halaman form)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Widget yang Digunakan
+- MaterialApp  
+- Scaffold  
+- AppBar  
+- TextField  
+- ListView  
+- ListTile  
+- Card  
+- ElevatedButton  
+- FloatingActionButton  
+- Navigator  
+
+---
